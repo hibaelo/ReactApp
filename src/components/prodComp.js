@@ -1,7 +1,7 @@
 import './product.css'
-function ProductComponent(){
+function  ProductComponent(){
     return(
-    <div  className='prodList'>
+    <div   className='prodList'>
         <ul>
         <li>Product:</li>
         <li>Categorie: Informatique</li>
